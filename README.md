@@ -1,5 +1,6 @@
 Company Management System
 A C-based project that simulates a hierarchical management structure within an organization, designed to enhance communication, task management, and productivity. The system provides role-based access for Bosses, Managers, and Employees, each with dedicated functionalities.
+
 🔹 Key Features:
 Role-based access: Separate functionalities for Boss, Manager, and Employee.
 User Authentication: Privacy keys to ensure secure access.
